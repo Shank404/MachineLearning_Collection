@@ -1,0 +1,32 @@
+Convolutional Neural Network
+
+--------------------------- Neuron (Struktur) ---------------------------
+1. Propagierungsfunktion
+=> Gewichtete Summe | Verarbeitet Eingaben (Input) zur Netzeingabe (Output)
+
+2. Aktivierungsfunktion/Transferfunktion
+=> Schwellwertfunktion | Verarbeitet Netzeingabe (Input) zur Aktivierung (Output)
+
+3. Ausgabefunktion
+=> Berechnet aus der Aktivierung (Input) den Ausgabewert (Output)
+
+Flache Netze sind beschränkt auf einfache Aufgaben.
+CNN's (tiefe Netze) können sehr große Datenmengen verarbeiten!
+
+
+--------------------------- CNN (Struktur) ---------------------------
+Input Layer
+
+2DConvolutionalLayer      |
+BatchNormalizationLayer   | Zusammen ergeben beide Schichten die Propagierungsfunktion
+
+ReluLayer                 | Aktivierungsfunktion/Transferfunktion
+
+MaxPooling2DLayer         |
+
+fullyConnectedLayer
+softMaxLayer
+classificationLayer
+
+
+
