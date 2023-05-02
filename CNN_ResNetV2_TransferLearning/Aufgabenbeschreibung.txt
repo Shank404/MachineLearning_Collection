@@ -1,0 +1,27 @@
+
+Laboraufgabe - Tensorflow/Keras
+
+1) Ich habe euch ein Projekt vorbereitet, in dem das
+ResNetV2 verwendet wird. Alles ist soweit vorbereitet,
+so dass ihr nur noch die letzten Schichten definieren müsst.
+Wie das Modell aufgebaut werden soll steht in der net.png
+
+2) Sobald ihr dies getan habt, sollt ihr das Netz belernen.
+(Verkleinert den Datensatz, falls es euch zu lange dauert!)
+
+3) Plottet die Accuracy und Loss des Trainingsprozesses aus.
+
+4) Versucht diese zu erhöhen durch das Anpassen der Parameter.
+
+5) Findet heraus wie man auf ein Bild, eine Prediction ausführen
+kann, und implementiert einen Test mit dem Prediction_Set.
+
+HINWEIS
+1. Um eines der Projekte zu starten, muss das Root-Projekt als VirtualEnvironment
+ausgewählt werden! Der Pfad des Venv befindet sich unter -> Root-Projekt/PreparedProject/venv/bin/python
+2. Falls das starten des Skriptes zu lange dauert, müsst ihr den Image-Ordner
+solange vom Inhalt reduzieren bis es erträglich wird.
+GRUND : 800.000 Bilder sind im Datensatz!
+
+
+
