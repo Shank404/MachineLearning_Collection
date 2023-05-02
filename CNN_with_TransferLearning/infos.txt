@@ -1,0 +1,9 @@
+
+VGG16 - 2014 ILSVRC challenge (ImageNet Large Scale Visual Recognition Challenge)
+Karen Simonyan und Andrew Zisserman sind Wissenschaftler der Oxford University.
+Die beiden haben VGG16 im Jahr 2014 in einem ihrer Paper vorgestellt.
+
+pip install tensorflow-datasets
+
+WICHTIG IMPORTS BEACHTEN!!!
+mit tf. konnte ich gewisse Funktionalitäten nicht nutzen
