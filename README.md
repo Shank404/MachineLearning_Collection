@@ -1,2 +1,9 @@
 # MachineLearning_Collection
-~~ ML with Python / TensorFlow / Keras ~~ This is a collection of machine learning projects i build while studying CS. A range from fairly simple Networks to some complexer CNNs.
+
+A collection of different neural networks.
+The projects were developed with python, keras and tensorflow.
+All this was created for educational purposes while studying.
+
+## How to run those projects ?
+You need to install all neccessary packages.
+Open terminal and run ’pip install -r requirements.txt’ 
